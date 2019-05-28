@@ -1,3 +1,5 @@
 # Data Management
 
-Data management protocol of the cns group described.
+Researchers:
+A description of the data management plan can be found in the wiki. Please make sure you have read it so you know our expectations.
+
